@@ -1,0 +1,6 @@
+services:
+  snowwebsite:
+    build: .
+    shm_size: 3gb
+    ports:
+      - "8000:80"
