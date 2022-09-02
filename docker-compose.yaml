@@ -1,6 +1,6 @@
 services:
-  snowwebsite:
+  RGY-16592-LA:
     build: .
     shm_size: 3gb
     ports:
-      - "8000:80"
+      - "80:80"
