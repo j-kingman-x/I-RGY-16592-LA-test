@@ -1,5 +1,5 @@
 services:
-  RGY_16592_LA:
+  RGYo16592oLA:
     build: .
     shm_size: 3gb
     ports:
